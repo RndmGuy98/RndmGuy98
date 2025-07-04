@@ -2,7 +2,6 @@
 - 👀 I’m interested in mostly nerdy stuff, meaning Manga, video games, High-Fantasy, and the like
 - 🌱 I’m currently learning more about how larger-scale projects work
 - 🗣️ My first language is German
-- 💞️ I’m looking to collaborate on nothing at the moment, I'm still mostly in the learning phase of OOP
 - 📫 How to reach me: Don't, this account is only for my own projects or with friends
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have aphantasia
